@@ -21,6 +21,15 @@ public class CLI
 		}
 		activeVariables = Navigate.getValues(activeCatagory.getVariables());
 		//solve
-		
+			//find x var
+			//find equations with x var
+			//find possible solution
+				//first one equation with one var
+				//then two equation with two var and so on (substitution)
+			//check for multiple solutions
+				//factor
+			//isolate x
+			//insert var values
+			//solve
 	}
 }
