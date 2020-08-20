@@ -30,6 +30,6 @@ public class CLI
 				//factor
 			//isolate x
 			//insert var values
-			//solve
+			//do math
 	}
 }
